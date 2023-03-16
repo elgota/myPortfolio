@@ -26,7 +26,7 @@ function Hero() {
                         <FontAwesomeIcon icon={faTwitter} />
                     </a>
             </div>
-            <div className="border-solid p-5 rounded-lg shadow-xl text-center h-80">
+            <div className="border-solid p-5 rounded-lg shadow-xl text-center sm:h-80 h-full">
                 <h4 className="font-ubuntu text-2xl font-light mb-2">Hola! Mi nombre es</h4>
                 <h1 className="text-7xl font-bold mb-5">Juan Pablo</h1>
                 <p className="font-ubuntu text-2xl font-light mb-10">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam veritatis, <br />
