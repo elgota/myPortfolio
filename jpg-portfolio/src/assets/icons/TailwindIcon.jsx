@@ -25,6 +25,7 @@ export const TailwindIcon = () => {
           fill="#2d3748"
         ></path>
       </svg>
+      <p className="text-center text-grey font-ubuntu mt-2 font-medium">Tailwind CSS</p>
     </div>
   );
 };
